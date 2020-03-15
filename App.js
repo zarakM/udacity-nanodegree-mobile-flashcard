@@ -51,7 +51,7 @@ class App extends React.Component {
                 headerTitle: "Deck's App",
                 headerTitleAlign: "center",
                 headerTintColor: "white",
-                headerStyle: { backgroundColor: "#1b262c" }
+                headerStyle: { backgroundColor: "#00000" }
               }}
             >
               <Stack.Screen name="Home" component={TabNavigator} />
